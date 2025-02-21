@@ -11,3 +11,5 @@ dotnet run
 cd ../Client
 dotnet run
 ```
+
+hi! My name is
