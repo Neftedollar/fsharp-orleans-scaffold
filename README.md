@@ -4,6 +4,8 @@
 
 ## How to run
 
+It's simple as
+
 ```sh
 dotnet build
 cd Server
