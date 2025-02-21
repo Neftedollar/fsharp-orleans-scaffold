@@ -13,5 +13,3 @@ dotnet run
 ```
 
 enjoy!
-
-hi! My name is
