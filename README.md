@@ -11,5 +11,3 @@ dotnet run
 cd ../Client
 dotnet run
 ```
-
-enjoy!
